@@ -1,0 +1,22 @@
+{
+  "name": "namaste---react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kHaripriya123/React---frontend.git"
+  },
+  "author": "haripriya k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kHaripriya123/React---frontend/issues"
+  },
+  "homepage": "https://github.com/kHaripriya123/React---frontend#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
